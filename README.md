@@ -1,4 +1,4 @@
 webapi
 ======
 
-Example code for proposed HTML5 WebAPIs
+Example code for ~~money-making awesomeness~~ proposed HTML5 WebAPIs
